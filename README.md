@@ -42,5 +42,32 @@ DEVOLOPER BY MR_HANSAMALA
 ```
 <br>
 
+```
+EXAMPLE:
+{
+    method:"POST",
+    headers:{
+        "Content-Type":"application/json",
+        Authorization:
+        "Bearer Your Open AI API KEY",
+        User-Agent:"Chrome",
+    }
+}),
+```
+
+```
+After:-
+
+{
+    method:"POST",
+    headers:{
+        "Content-Type":"application/json",
+        Authorization:
+        "Bearer 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",
+        User-Agent:"Chrome",
+    }
+}),
+```
+
 - **DEVOLOPER  MR-Hansamala** 
 - - **WEBSITE**
