@@ -23,7 +23,7 @@
  <p>
 <p>
   <p align="center">
-<a href="https://github.com/mrhansamala/Ai-Image-Generator-Website/fork"><img title="Author" src="https://img.shields.io/badge/CREATOR-MR HANSAMALA-black.svg?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/mrhansamala/Ai-Image-Generator-Website/fork"><img title="Author" src="https://img.shields.io/badge/Fork-Ai-Image-Generator-Website-black.svg?style=for-the-badge&logo=github"></a>
 
 
 
