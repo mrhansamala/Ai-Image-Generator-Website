@@ -17,8 +17,8 @@ const ImageGenerator = () => {
     headers:{
         "Content-Type":"application/json",
         Authorization:
-        "Bearer ",
-        User-Agent:"FireFox",
+        "Bearer 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",
+        User-Agent:"Chrome",
     }
 }),
     body:JSON.stringify{
